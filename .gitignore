@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Archivos tmp
+*.tmp
+
+# Carpeta logs y su contenido
+logs/
